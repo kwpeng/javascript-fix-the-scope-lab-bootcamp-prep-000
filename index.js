@@ -33,8 +33,6 @@ var theFunk = funkyFunction()
 var theFunk = theFunk(theFunk)
 
 
-console.log (theFunk)
-
 
 
 
